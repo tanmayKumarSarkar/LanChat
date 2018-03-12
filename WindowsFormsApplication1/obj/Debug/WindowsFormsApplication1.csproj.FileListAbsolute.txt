@@ -1,0 +1,11 @@
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\E1\SOFTWARE\VS_13_WorkSpace\LanChat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormChat.resources
